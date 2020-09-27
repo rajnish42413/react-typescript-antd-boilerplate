@@ -48,4 +48,4 @@ For deployment, run `npm run build` and upload `build/` to your server.
 
 ## License
 
-MIT · [Lucas Bassetti](http://lucasbassetti.com.br)
+MIT · [Rajnish Singh](https://www.linkedin.com/in/rajnish42413/)
