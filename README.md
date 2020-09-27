@@ -30,7 +30,7 @@ React Boilerplate using TypeScript and Ant Design. This boilerplate uses [Create
 Run the following commands in your terminal
 
 ```bash
-git clone https://github.com/LucasBassetti/react-typescript-antd-boilerplate.git
+git clone https://github.com/rajnish42413/react-typescript-antd-boilerplate.git
 cd react-typescript-antd-boilerplate
 yarn install
 yarn start
